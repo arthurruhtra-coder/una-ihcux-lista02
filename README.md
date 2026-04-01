@@ -14,3 +14,4 @@ Arquivos que o .NET criou para mim:
 
 ## 📸 Evidência de Execução
 ![Print do terminal rodando o projeto](./minha-evidencia.png)
+<img width="950" height="306" alt="terminal 2" src="https://github.com/user-attachments/assets/05be1e4d-7b74-4026-9942-3c61d3594a89" />
